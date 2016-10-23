@@ -1,0 +1,10 @@
+[package]
+name = "roguetut"
+version = "0.1.0"
+authors = ["monkeybits <kristianselvaag@gmail.com>"]
+
+[dependencies]
+
+[dependencies.tcod]
+git = "https://github.com/tomassedovic/tcod-rs.git"
+
